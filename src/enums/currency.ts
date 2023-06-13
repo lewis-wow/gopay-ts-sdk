@@ -1,0 +1,10 @@
+export enum Currency {
+  CZECH_CROWNS = 'CZK',
+  EUROS = 'EUR',
+  POLISH_ZLOTY = 'PLN',
+  HUNGARIAN_FORINT = 'HUF',
+  BRITISH_POUND = 'GBP',
+  US_DOLLAR = 'USD',
+  ROMANIAN_LEU = 'RON',
+  BULGARIAN_LEV = 'BGN',
+}

@@ -1,0 +1,6 @@
+export enum PreAuthState {
+  REQUESTED = 'REQUESTED',
+  AUTHORIZED = 'AUTHORIZED',
+  CAPTURED = 'CAPTURED',
+  CANCELED = 'CANCELED',
+}
